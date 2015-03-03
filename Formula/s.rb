@@ -2,8 +2,8 @@ require 'formula'
 
 class S < Formula
   homepage 'https://github.com/haosdent/s'
-  url 'https://github.com/haosdent/s/archive/v1.0.tar.gz'
-  sha1 '081f81da91176d2729953631d502faf6726bf0c6'
+  url 'https://github.com/haosdent/s/archive/v1.1.tar.gz'
+  sha1 '95bad2147b17dfe911bf1e5ae01e828af51e58d3'
 
   head 'https://github.com/haosdent/s.git'
 
