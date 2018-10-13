@@ -12,7 +12,7 @@ class S < Formula
     man1.install 's.1'
   end
 
-  def caveats; <<-EOS.undent
+  def caveats; <<-EOS
     For Bash or Zsh, put something like this in your $HOME/.bashrc or $HOME/.zshrc:
       . `brew --prefix`/etc/profile.d/s.sh
     EOS
